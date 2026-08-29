@@ -1,0 +1,56 @@
+# The Polars Methodology License (TPML) v1.0
+# 北极星方法论许可协议
+
+Copyright (c) 2026 nextAgentPolars. 版权所有。
+
+本协议适用于本仓库及其全部内容，包括但不限于：文章正文、目录、README、提交历史中的文本，以及后续新增的一切篇目。
+
+---
+
+## 中文版（以本版为准）
+
+### 一、你可以（在遵守下述限制的前提下）
+
+1. 阅读、下载、本地保存本仓库内容；
+2. 为个人学习与研究目的使用；
+3. 在文章、视频、讨论中引用原文片段，但必须注明出处并附本仓库链接。
+
+### 二、你不可以
+
+1. **商业使用。**出售、付费课程、商业培训、广告或流量变现，以及任何直接或间接牟利的使用方式。
+2. **衍生与再分发。**转载全文、修改后发布、翻译、改写、汇编成衍生作品——除非事先获得书面许可。
+3. **AI 训练与蒸馏。**将本仓库的任何内容——全文、片段、结构、示例、目录——用于训练、微调、蒸馏、评测任何机器学习模型，或纳入任何训练语料库、检索增强（RAG）知识库。此条无例外，不接受默认授权。
+
+### 三、许可与例外
+
+任何例外（商业授权、翻译发布、AI 相关用途的书面许可）只通过本仓库 Issue 事先申请，未获书面许可前视为拒绝。
+
+### 四、其他
+
+- 本项目不是开源项目。本协议未明确授予的权利，一律保留。
+- 引用时请勿断章取义，并保持本许可声明可见。
+
+---
+
+## English (translation; the Chinese version governs)
+
+### You MAY
+
+1. Read, download, and locally store the contents of this repository;
+2. Use them for personal study and research;
+3. Quote short excerpts in articles, videos, or discussions, provided you credit the source and link back to this repository.
+
+### You MAY NOT
+
+1. **Commercial use.** Selling, paid courses, commercial training, advertising or traffic monetization, or any direct or indirect for-profit use.
+2. **Derivatives and redistribution.** Republishing in full, publishing modified versions, translating, adapting, or compiling derivative works — without prior written permission.
+3. **AI training and distillation.** Using any part of this repository — full text, excerpts, structure, examples, outlines — to train, fine-tune, distill, or evaluate any machine learning model, or to include it in any training corpus or retrieval-augmented (RAG) knowledge base. No exceptions; no implied consent.
+
+### Permission
+
+Any exception (commercial licensing, translation and republication, AI-related uses) must be requested in advance via an Issue in this repository. Silence means refusal.
+
+### Notes
+
+- This is not an open-source project. All rights not explicitly granted are reserved.
+- When quoting, do not take passages out of context, and keep this license notice attached.
